@@ -1,0 +1,490 @@
+{
+  "products": [
+    {
+      "id": "6",
+      "title": "pink 3 piece set with jardosi hand work",
+      "image": "assets/products/6.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-6>",
+      "description": {
+        "name": "pink 3 piece set with jardosi hand work",
+        "netWeight": "300 gms",
+        "kurtaColor": "gajari pink",
+        "length": "113 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set with duppata",
+        "setType": "three piece set",
+        "stitchType": "full stich",
+        "occasion": "traditional wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "L",
+            "price": 2430,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 44,
+            "bottomWaist": 30,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight pant",
+        "bottomColor": "gajari pink",
+        "bottomFabric": "rayon",
+        "dupattaDetails": "Golden big flower and border in dupatta; Dupatta type - soft and silky"
+      }
+    },
+    {
+      "id": "7",
+      "title": "white 3 piece set with jardosi and embroidery hand work",
+      "image": "assets/products/7.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-7>",
+      "description": {
+        "name": "white 3 piece set with jardosi and embroidery hand work",
+        "netWeight": "300 gms",
+        "kurtaColor": "milk white",
+        "length": "113 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set with duppata",
+        "setType": "three piece set",
+        "stitchType": "full stich",
+        "occasion": "traditional wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "L",
+            "price": 2850,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 44,
+            "bottomWaist": 30,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight pant work on bottom of the pant",
+        "bottomColor": "milk white",
+        "bottomFabric": "rayon",
+        "dupattaDetails": "big colourful flowers and border in dupatta; Dupatta type - soft and silky"
+      }
+    },
+    {
+      "id": "4",
+      "title": "mustered yellow 3 piece with soft material and silver Zari work",
+      "image": "assets/products/4.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-4>",
+      "description": {
+        "name": "mustered yellow 3 piece with soft material and silver Zari work",
+        "netWeight": "300 gms",
+        "kurtaColor": "mustered yellow",
+        "length": "106 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set with duppata",
+        "setType": "three piece set",
+        "stitchType": "full stich",
+        "occasion": "traditional wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "M",
+            "price": 2499,
+            "unitsInStock": 1,
+            "bust": 36,
+            "shoulder": 14,
+            "kurtaWaist": 34,
+            "kurtaLength": 42,
+            "bottomWaist": 29,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight elastin pant work on bottom of the pant",
+        "bottomColor": "mustered white",
+        "bottomFabric": "soft cotton rayon",
+        "dupattaDetails": "Soft golden line on dupatta; Dupatta type - soft and silky"
+      }
+    },
+    {
+      "id": "5",
+      "title": "dark blue laheriya print two piece kurta set",
+      "image": "assets/products/5.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-5>",
+      "description": {
+        "name": "dark blue laheriya print two piece kurta set",
+        "netWeight": "250 gms",
+        "kurtaColor": "dark blue",
+        "length": "105 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set",
+        "setType": "co-ord",
+        "stitchType": "full stich",
+        "occasion": "daily office wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "XL",
+            "price": 1230,
+            "unitsInStock": 1,
+            "bust": 42,
+            "shoulder": 15,
+            "kurtaWaist": 38,
+            "kurtaLength": 41,
+            "bottomWaist": 31,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "",
+        "bottomColor": "",
+        "bottomFabric": "",
+        "dupattaDetails": ""
+      }
+    },
+    {
+      "id": "2",
+      "title": "white chikankari short straight cotton kurta",
+      "image": "assets/products/2.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-2>",
+      "description": {
+        "name": "white chikankari short straight cotton kurta",
+        "netWeight": "150 gms",
+        "kurtaColor": "ehitr",
+        "length": "80 cm",
+        "neck": "Round neck",
+        "pattern": "short Kurti",
+        "setType": "single kurti",
+        "stitchType": "full stich",
+        "occasion": "daily office wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "M",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 36,
+            "shoulder": 14,
+            "kurtaWaist": 34,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          },
+          {
+            "label": "L",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          }
+        ],
+        "bottomType": "",
+        "bottomColor": "",
+        "bottomFabric": "",
+        "dupattaDetails": ""
+      }
+    },
+    {
+      "id": "6",
+      "title": "pink 3 piece set with jardosi hand work",
+      "image": "assets/products/6.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-6>",
+      "description": {
+        "name": "pink 3 piece set with jardosi hand work",
+        "netWeight": "300 gms",
+        "kurtaColor": "gajari pink",
+        "length": "113 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set with duppata",
+        "setType": "three piece set",
+        "stitchType": "full stich",
+        "occasion": "traditional wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "L",
+            "price": 2430,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 44,
+            "bottomWaist": 30,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight pant",
+        "bottomColor": "gajari pink",
+        "bottomFabric": "rayon",
+        "dupattaDetails": "Golden big flower and border in dupatta; Dupatta type: soft and silky"
+      }
+    },
+    {
+      "id": "7",
+      "title": "white 3 piece set with jardosi and embroidery hand work",
+      "image": "assets/products/7.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-7>",
+      "description": {
+        "name": "white 3 piece set with jardosi and embroidery hand work",
+        "netWeight": "300 gms",
+        "kurtaColor": "milk white",
+        "length": "113 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set with duppata",
+        "setType": "three piece set",
+        "stitchType": "full stich",
+        "occasion": "traditional wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "L",
+            "price": 2850,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 44,
+            "bottomWaist": 30,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight pant work on bottom of the pant",
+        "bottomColor": "milk white",
+        "bottomFabric": "rayon",
+        "dupattaDetails": "big colourful flowers and border in dupatta; Dupatta type: soft and silky"
+      }
+    },
+    {
+      "id": "4",
+      "title": "mustered yellow 3 piece with soft material and silver Zari work",
+      "image": "assets/products/4.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-4>",
+      "description": {
+        "name": "mustered yellow 3 piece with soft material and silver Zari work",
+        "netWeight": "300 gms",
+        "kurtaColor": "mustered yellow",
+        "length": "106 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set with duppata",
+        "setType": "three piece set",
+        "stitchType": "full stich",
+        "occasion": "traditional wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "M",
+            "price": 2499,
+            "unitsInStock": 1,
+            "bust": 36,
+            "shoulder": 14,
+            "kurtaWaist": 34,
+            "kurtaLength": 42,
+            "bottomWaist": 29,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight elastin pant work on bottom of the pant",
+        "bottomColor": "mustered white",
+        "bottomFabric": "soft cotton rayon",
+        "dupattaDetails": "Soft golden line on dupatta; Dupatta type: soft and silky"
+      }
+    },
+    {
+      "id": "5",
+      "title": "dark blue laheriya print two piece kurta set",
+      "image": "assets/products/5.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-5>",
+      "description": {
+        "name": "dark blue laheriya print two piece kurta set",
+        "netWeight": "250 gms",
+        "kurtaColor": "dark blue",
+        "length": "105 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set",
+        "setType": "co-ord",
+        "stitchType": "full stich",
+        "occasion": "daily office wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "XL",
+            "price": 1230,
+            "unitsInStock": 1,
+            "bust": 42,
+            "shoulder": 15,
+            "kurtaWaist": 38,
+            "kurtaLength": 41,
+            "bottomWaist": 31,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "",
+        "bottomColor": "",
+        "bottomFabric": "",
+        "dupattaDetails": ""
+      }
+    },
+    {
+      "id": "2",
+      "title": "white chikankari short straight cotton kurta",
+      "image": "assets/products/2.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-2>",
+      "description": {
+        "name": "white chikankari short straight cotton kurta",
+        "netWeight": "150 gms",
+        "kurtaColor": "white",
+        "length": "80 cm",
+        "neck": "Round neck",
+        "pattern": "short Kurti",
+        "setType": "single kurti",
+        "stitchType": "full stich",
+        "occasion": "daily office wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "M",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 36,
+            "shoulder": 14,
+            "kurtaWaist": 34,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          },
+          {
+            "label": "L",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          },
+          {
+            "label": "XL",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 42,
+            "shoulder": 14,
+            "kurtaWaist": 38,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          },
+          {
+            "label": "XXL",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 44,
+            "shoulder": 15,
+            "kurtaWaist": 40,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          },
+          {
+            "label": "3XL",
+            "price": 775,
+            "unitsInStock": 1,
+            "bust": 46,
+            "shoulder": 16,
+            "kurtaWaist": 43,
+            "kurtaLength": 31,
+            "bottomWaist": "",
+            "bottomLength": ""
+          }
+        ],
+        "bottomType": "",
+        "bottomColor": "",
+        "bottomFabric": "",
+        "dupattaDetails": ""
+      }
+    },
+    {
+      "id": "3",
+      "title": "Ethnic pink top pant with jardosi handwork",
+      "image": "assets/products/3.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-3>",
+      "description": {
+        "name": "Ethnic pink top with jardosi handwork",
+        "netWeight": "250 gms",
+        "kurtaColor": "pink with white wavy stips",
+        "length": "116 cm",
+        "neck": "v small neck",
+        "pattern": "pant kurta",
+        "setType": "co-ord",
+        "stitchType": "full stich",
+        "occasion": "daily office wear",
+        "printType": "laheria print",
+        "sizes": [
+          {
+            "label": "L",
+            "price": 1450,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 15,
+            "kurtaWaist": 44,
+            "kurtaLength": 45,
+            "bottomWaist": "29 (stretchable)",
+            "bottomLength": 37
+          },
+          {
+            "label": "XL",
+            "price": 1550,
+            "unitsInStock": 1,
+            "bust": 42,
+            "shoulder": 15,
+            "kurtaWaist": 44,
+            "kurtaLength": 45,
+            "bottomWaist": "31 (stretchable)",
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "pant straight",
+        "bottomColor": "pink wavy white strips",
+        "bottomFabric": "cotton",
+        "dupattaDetails": ""
+      }
+    },
+    {
+      "id": "9",
+      "title": "light pink kurta pant set",
+      "image": "assets/products/9.jpeg",
+      "buyNowLink": "https://meesho.com/<placeholder-link-9>",
+      "description": {
+        "name": "light pink kurta pant set",
+        "netWeight": "150 gms",
+        "kurtaColor": "light pink",
+        "length": "100 cm",
+        "neck": "Round neck",
+        "pattern": "kurta set",
+        "setType": "co-ord",
+        "stitchType": "full stich",
+        "occasion": "office wear",
+        "printType": "",
+        "sizes": [
+          {
+            "label": "L",
+            "price": 1350,
+            "unitsInStock": 1,
+            "bust": 40,
+            "shoulder": 14,
+            "kurtaWaist": 36,
+            "kurtaLength": 40,
+            "bottomWaist": 30,
+            "bottomLength": 37
+          }
+        ],
+        "bottomType": "straight elastic pant",
+        "bottomColor": "light pink",
+        "bottomFabric": "soft cotton",
+        "dupattaDetails": ""
+      }
+    }
+  ]
+}

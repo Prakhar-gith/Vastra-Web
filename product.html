@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Details | Vastra</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="product.css" />
+</head>
+
+<body>
+    <!-- NAV same as index.html -->
+    <nav>
+        <div class="nav__header">
+            <div class="nav__logo logo">
+                <img src="./assets/Logo_5.jpg" href="index.html#">
+            </div>
+            <div class="nav__menu__btn" id="menu-btn">
+                <i class="ri-menu-line"></i>
+            </div>
+        </div>
+        <ul class="nav__links" id="nav-links">
+            <li><a href="index.html#catalogue">CATALOGUE</a></li>
+            <li><a href="index.html#lifestyle">LIFESTYLE</a></li>
+            <li><a href="all-products.html">All Products</a></li>
+        </ul>
+
+    </nav>
+
+
+    <main class="section__container product__container">
+        <div class="product__image">
+            <img id="product-img" src="" alt="Product Image" />
+        </div>
+
+        <!-- Lightbox/Modal for Zoom -->
+        <div id="imageModal" class="image-modal">
+            <span id="modalClose" class="modal-close">&times;</span>
+            <img class="modal-content" id="modalImg" alt="Zoomed Image" />
+        </div>
+        <!-- /Lightbox -->
+
+        <div class="product__info">
+            <div class="product__info-content">
+                <!-- Title and Tagline -->
+                <h2 id="product-title"></h2>
+                <p class="product__short-desc" id="product-tagline">
+                    Live for influential and innovative fashion.
+                </p>
+
+                <!-- Non-size-specific details -->
+                <h3 class="product__specs-title">Product Details</h3>
+                <div class="product__general-details" id="product-general-details">
+                    <!-- We'll fill these from JSON (fields that do NOT change by size) -->
+                </div>
+
+                <!-- Size dropdown -->
+                <label for="sizeSelect"><strong>Select Size:</strong></label>
+                <select id="sizeSelect"></select>
+                <br>
+                <!-- Size-specific table -->
+                <h3 class="product__specs-title">Size Details</h3>
+                <table id="sizeTable" class="size-table">
+                    <!-- We'll fill this with JS based on the chosen size -->
+                </table>
+
+                <!-- Buy Now -->
+                <a id="buy-now-link" href="#" target="_blank" class="btn product__buy-now">
+                    Buy Now
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Similar Products Carousel -->
+    <section class="similar-products section__container">
+        <h2 class="similar-products__title">Similar Products</h2>
+
+        <!-- Carousel container with arrow buttons -->
+        <div class="carousel-container">
+            <button class="carousel-btn left" id="prevBtn">
+                <i class="ri-arrow-left-s-line"></i>
+            </button>
+
+            <div class="similar-products__wrapper" id="similarProductsWrapper">
+                <!-- Dynamically or statically added product cards go here -->
+                <!-- Example static cards: -->
+                
+                <!-- ... more cards -->
+            </div>
+
+            <button class="carousel-btn right" id="nextBtn">
+                <i class="ri-arrow-right-s-line"></i>
+            </button>
+        </div>
+    </section>
+
+
+
+    <!-- FOOTER same as index.html -->
+    <footer>
+        <div class="section__container footer__container">
+            <div class="footer__col">
+                <div class="footer__logo">
+                    <a href="#">FASHION</a>
+                </div>
+                <p>Complete your style with awesome clothes from us.</p>
+                <ul class="footer__socials">
+                    <li>
+                        <a href="#"><i class="ri-facebook-fill"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="ri-instagram-line"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="ri-twitter-fill"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="ri-linkedin-fill"></i></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer__col">
+                <h4>Company</h4>
+                <ul class="footer__links">
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Support</a></li>
+                    <li><a href="#">Careers</a></li>
+                </ul>
+            </div>
+            <div class="footer__col">
+                <h4>Quick Links</h4>
+                <ul class="footer__links">
+                    <li><a href="#">Store Location</a></li>
+                    <li><a href="#">Order Tracking</a></li>
+                    <li><a href="#">Size Guide</a></li>
+                    <li><a href="#">FAQs</a></li>
+                </ul>
+            </div>
+            <div class="footer__col">
+                <h4>Legal</h4>
+                <ul class="footer__links">
+                    <li><a href="#">Terms & Conditions</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <!-- SCRIPTS -->
+    <script src="main.js"></script>
+    <script src="product.js"></script>
+
+</body>
+
+</html>
